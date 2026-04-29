@@ -26,8 +26,9 @@
 
 ## Competitive Positioning
 
-**Axis X:**
-**Axis Y:**
+**Platform Encroachment**
+**Vertical Competitor**
+**Adjacent Expansion**
 
 | Competitor | X Position | Y Position | Notes |
 |-----------|-----------|-----------|-------|
