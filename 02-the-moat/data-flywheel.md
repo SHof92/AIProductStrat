@@ -2,21 +2,21 @@
 
 ## Flywheel Loops
 
-### Loop 1: Usage → Signal
-**Score: __/5**
-*How does usage generate proprietary data?*
+### Loop 1: Correction loop
+**Score: 1/5**
+*When your AI gets something wrong, what happens to that correction? Captured and reused → high. Discarded → low.*
 
-### Loop 2: Signal → Model
-**Score: __/5**
-*How does that data improve the model?*
+### Loop 2: Preference loop
+**Score: 1/5**
+*Does the product learn individual/team preferences? Having analytics ≠ personalization.*
 
-### Loop 3: Model → Experience
-**Score: __/5**
-*How does the better model improve UX?*
+### Loop 3: Domain context loop
+**Score: 1/5**
+*Does usage in one area improve quality in adjacent areas? Siloed = 1, cross-domain transfer = 5.*
 
-### Loop 4: Experience → Usage
-**Score: __/5**
-*How does better UX drive more usage?*
+### Loop 4: Network loop
+**Score: 1/5**
+*Does each new user/team make the product better for everyone? Isolated = 1, strong network effects = 5.*
 
 **Total Flywheel Score: __/20**
 **Weakest Loop:**
