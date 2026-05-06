@@ -39,3 +39,16 @@
 **Before (traditional SaaS):**
 **After (AI-enabled):**
 **Net margin shift:**
+
+## Leader, Filler & Killer
+
+**Leader**
+
+
+**Filler**
+
+**Killer**
+
+Killer Usage %
+
+Bundle or Add-on
